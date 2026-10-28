@@ -30,5 +30,5 @@ Projeto	Descrição	Tecnologias
 💡 exercicios-algoritmos-c	Resolução de exercícios de lógica e algoritmos em C	
 🌐 Outro projeto deste semestre: Monitoramentto de temperatura, monitora a temperatura e retorna diversas informações a respeito do clima
 📊 Estatísticas
-<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true" /> </p>
+<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendesmatheus846&layout=compact&hide_border=true" /> </p>
 <p align="center"><i>"Um bom site é aquele que funciona bem para todo mundo, em qualquer tela."</i></p>
