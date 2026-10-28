@@ -2,9 +2,10 @@
 <p align="center"><b>Desenvolvedor Web | Graduando em Análise e Desenvolvimento de Sistemas</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-mendes-dos-santos-a406591b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendesmatheus846@gmail.com)
-</p>
+  <a href="https://www.linkedin.com/in/matheus-mendes-dos-santos-a406591b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="mailto:mendesmatheus846@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+    
 
 ---
 
