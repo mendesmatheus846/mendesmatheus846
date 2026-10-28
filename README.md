@@ -1,34 +1,55 @@
-<h1 align="center">Olá, eu sou Matheus Mendes 👋</h1> <p align="center"><b>Desenvolvedor Web | Graduando em Analise e Desenvolvimento de Sistemas</b></p> <p align="center"> <a href="https://www.linkedin.com/in/matheus-mendes-dos-santos-a406591b8?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:mendesmatheus846@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
-🚀 Sobre mim
+<h1 align="center">Matheus Mendes</h1>
+<p align="center"><b>Desenvolvedor Web | Graduando em Análise e Desenvolvimento de Sistemas</b></p>
 
-Minha história com tecnologia começou na prática: antes mesmo de dominar a teoria, eu já estava construindo sites para clientes reais, entendendo que um bom site não é só bonito, mas precisa ser rápido, fácil de usar e resolver o problema de quem está do outro lado da tela.
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-mendes-dos-santos-a406591b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-Para dar base técnica a esse trabalho, entrei em Engenharia de Software. Na faculdade, a disciplina de Algoritmos e Pensamento Computacional me ensinou a decompor problemas e escrever lógica em C, e em Programação Web aprofundei os fundamentos de HTML, CSS e JavaScript que uso no dia a dia.
+---
 
-Hoje meu foco é unir prática de mercado e base de engenharia: criar sites performáticos, acessíveis e bem estruturados, com código limpo e documentado.
+## 👨‍💻 Quem sou eu
 
-Metas:
--Dominar JavaScript moderno e o consumo de APIs
--Aprender React e construir aplicações web completas
--Evoluir em back-end e bancos de dados para atuar como full-stack
--Tech Stack
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de entender como as coisas funcionam por trás da tela. Comecei pela base: na disciplina de **Programação em C**, aprendi a pensar como o computador, validando entradas, tratando erros e organizando a lógica com estruturas de repetição e decisão.
 
-Linguagens
+Meu projeto mais recente é um **sistema de monitoramento de temperatura em C**, que valida os dados digitados, emite alertas e gera um relatório final com média, máxima, mínima e percentuais. Foi nele que percebi a importância de testar cada cenário e documentar bem o que o código faz.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c" />
+Em paralelo, venho me desenvolvendo em **desenvolvimento web**, com HTML, CSS e JavaScript, e praticando trabalho em equipe com Git e GitHub.
 
-Plataformas e ferramentas
+### 🎯 Próximos passos
+- Aprofundar JavaScript e construir projetos web completos
+- Estudar bancos de dados e desenvolvimento back-end
+- Publicar projetos bem documentados e com testes
+- Conquistar meu primeiro estágio na área de desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> <br/> <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" />
+---
 
-Estudando agora
+## 🧰 Tecnologias
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mysql" />
-📌 Projetos em destaque
-Projeto	Descrição	Tecnologias
-🎓  Projeto acadêmico deste semestre: Calculadora Multifuncional,calculadora que faz 10 tipos de operações.	
-💡 exercicios-algoritmos-c	Resolução de exercícios de lógica e algoritmos em C	
-🌐 Outro projeto deste semestre: Monitoramentto de temperatura, monitora a temperatura e retorna diversas informações a respeito do clima
-📊 Estatísticas
-<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendesmatheus846&layout=compact&hide_border=true" /> </p>
-<p align="center"><i>"Um bom site é aquele que funciona bem para todo mundo, em qualquer tela."</i></p>
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=c,html,css,js" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+**Em estudo**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql" />
+
+---
+
+## 📂 Projetos
+
+| Projeto | Sobre |
+|---|---|
+| 🌡️ [Monitoramento de Temperatura](https://github.com/mendesmatheus846/desafio-monitoramento) | Projeto deste semestre: programa em C que monitora temperaturas, valida entradas e gera relatório final |
+| 🤝 [Desafio Colaborativo Git](https://github.com/mendesmatheus846/desafio-colaborativo-git) | Projeto em equipe para praticar fluxo de trabalho com Git e GitHub |
+| 🔢 [Atividade Bubble Sort](https://github.com/juliarodriguesbezerra02-cell/Atividade-Bubble-Sort) | Atividade em grupo sobre o algoritmo de ordenação Bubble Sort |
+
+
+---
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendesmatheus846&layout=compact&hide_border=true" />
+</p>
