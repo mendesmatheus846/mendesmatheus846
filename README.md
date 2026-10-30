@@ -48,6 +48,7 @@ Em paralelo, venho me desenvolvendo em **desenvolvimento web**, com HTML, CSS e 
 | 🌡️ [Monitoramento de Temperatura](https://github.com/mendesmatheus846/desafio-monitoramento) | Projeto deste semestre: programa em C que monitora temperaturas, valida entradas e gera relatório final |
 | 🤝 [Desafio Colaborativo Git](https://github.com/mendesmatheus846/desafio-colaborativo-git) | Projeto em equipe para praticar fluxo de trabalho com Git e GitHub |
 | 🔢 [Atividade Bubble Sort](https://github.com/juliarodriguesbezerra02-cell/Atividade-Bubble-Sort) | Atividade em grupo sobre o algoritmo de ordenação Bubble Sort |
+🔢 [Organização de despesas](https://github.com/mendesmatheus846/desafio-monitoramento.git) | Projeto que organiza despesas
 
 
 ---
